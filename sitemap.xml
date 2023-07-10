@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://">
+  <url>
+    <loc />
+    <lastmod>2023-07-10</lastmod>
+  </url>
+  <url oeid="5c348634-911f-4856-aba0-16f4544fe7c7" oelang="DEFAULT">
+    <loc>index.htm</loc>
+    <lastmod>2023-06-06</lastmod>
+  </url>
+  <url oeid="6f294b4a-cc2b-4634-a864-aaf1c18ddd3d" oelang="DEFAULT">
+    <loc>proyectos_academicos.htm</loc>
+    <lastmod>2023-06-09</lastmod>
+  </url>
+  <url oeid="c6f4b0ad-6f3a-4ec5-8430-14154008bdf7" oelang="DEFAULT">
+    <loc>proyectos_personales.htm</loc>
+    <lastmod>2023-07-10</lastmod>
+  </url>
+  <url oeid="2a5fbd68-0b9d-48dc-a9ee-1361c98ecf9c" oelang="DEFAULT">
+    <loc>proyecto-bql.htm</loc>
+    <lastmod>2023-07-10</lastmod>
+  </url>
+  <url oeid="15a38909-9470-4219-afcc-9895e69e00f0" oelang="DEFAULT">
+    <loc>proyecto-terminalessentials.htm</loc>
+    <lastmod>2023-07-10</lastmod>
+  </url>
+  <url oeid="810c5875-8cf1-40b6-bdeb-1f39fce4795b" oelang="DEFAULT">
+    <loc>informacion-contacto.htm</loc>
+    <lastmod>2023-07-10</lastmod>
+  </url>
+</urlset>

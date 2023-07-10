@@ -1,0 +1,71 @@
+6/5/2023 3:30:46 PM | 
+6/5/2023 3:30:46 PM | 
+Message : Object reference not set to an instance of an object.
+6/5/2023 3:30:46 PM | 
+LastTrace : openElement.WebElement.ModDataEditTools.SetAllDataEdit(Page page, List`1 allDataEdit, String mediaKey)
+6/5/2023 3:30:46 PM | 
+Params : 
+6/5/2023 3:30:46 PM | 
+MethodeName : Void SetAllDataEdit(openElement.WebElement.Page, System.Collections.Generic.List`1[openElement.WebElement.WEDataEdit], System.String)
+6/5/2023 3:30:46 PM | 
+Stamp : 6/5/2023 3:30:46 PM
+6/5/2023 3:30:46 PM | 
+OSFullName : Microsoft Windows 10 Pro
+6/5/2023 3:30:46 PM | 
+AvailablePhysicalMemory : 10.44 Go 
+6/5/2023 3:30:46 PM | 
+TotalPhysicalMemory : 15.94 Go 
+6/5/2023 3:30:46 PM | 
+AvailableVirtualMemory : 3.19 Go 
+6/5/2023 3:30:46 PM | 
+TotalVirtualMemory : 4 Go 
+6/5/2023 3:30:46 PM | 
+WorkingSet : 291.44 Mo 
+6/5/2023 3:30:46 PM | 
+PagedMemorySize : 214.54 Mo 
+6/5/2023 3:30:46 PM | 
+TotalMemory : 38.89 Mo 
+6/5/2023 3:30:46 PM | 
+
+6/5/2023 3:30:46 PM | 
+ExTrace : 
+6/5/2023 3:30:46 PM | 
+at openElement.WebElement.ModDataEditTools.SetAllDataEdit(Page page, List`1 allDataEdit, String mediaKey)
+6/5/2023 3:30:46 PM | 
+at openElement.WebElement.Page.SetJsonDataEdit(String jsonData, String mKey)
+6/5/2023 3:30:46 PM | 
+at openElement.Forms.PageEditFromJs._SetJsonDataEdit(String jsonData, Boolean noPageUpdate)
+6/5/2023 3:30:46 PM | 
+
+6/5/2023 3:30:46 PM | 
+OETrace : 
+6/5/2023 3:30:46 PM | 
+at openElement.Forms.PageEditFromJs.TrapError(Exception ex, String infosParams)
+6/5/2023 3:30:46 PM | 
+at openElement.Forms.PageEditFromJs._SetJsonDataEdit(String jsonData, Boolean noPageUpdate)
+6/5/2023 3:30:46 PM | 
+at openElement.Wait.MainDoEvents()
+6/5/2023 3:30:46 PM | 
+at openElement.Wait.Open(String text1, String text2, WaitIconType iconType)
+6/5/2023 3:30:46 PM | 
+at openElement.CtlBrowser.WaitOpen(String text1, String text2, WaitIconType iconType)
+6/5/2023 3:30:46 PM | 
+at openElement.Forms.FrmPageEdit.ShowLoading()
+6/5/2023 3:30:46 PM | 
+at openElement.Forms.FrmPageEdit.LoadEditor()
+6/5/2023 3:30:46 PM | 
+at openElement.Forms.FrmPageEdit.ReloadEditor(EnuEditorType editType)
+6/5/2023 3:30:46 PM | 
+at openElement.Forms.FrmPageEdit.RestaurePageSnapShoot(SnapShoot snapShoot, Boolean onUndo)
+6/5/2023 3:30:46 PM | 
+at openElement.Forms.FrmPageEdit.UndoPageSnapShoot()
+6/5/2023 3:30:46 PM | 
+at openElement.Forms.FrmPageEdit.WebBrowser_BrowserKeyDown(Object sender, BrowserKeyEventArgs e)
+6/5/2023 3:30:46 PM | 
+at openElement.CtlBrowser._HandleKeyDown(BrowserKeyEventArgs e)
+6/5/2023 3:30:46 PM | 
+at openElement.My.MyApplication.Main(String[] Args)
+6/5/2023 3:30:46 PM | 
+
+6/5/2023 3:30:46 PM | 
+------------------
